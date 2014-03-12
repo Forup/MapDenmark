@@ -1,4 +1,4 @@
-package MapDenmark;
+package mapdenmark;
 
 import java.util.HashMap;
 
