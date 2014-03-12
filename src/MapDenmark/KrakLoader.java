@@ -1,4 +1,4 @@
-package MapDenmark;
+package mapdenmark;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -61,13 +61,3 @@ public abstract class KrakLoader {
 		System.gc();
 	}
 }
-
-	
-        
-
-
-    
-
-
-
-
