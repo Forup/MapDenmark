@@ -1,4 +1,9 @@
 # Netbeans folders #
+build/
+*.xml
+*.mf
+nbproject/
+dist/
 kdv_node_unload.txt
 kdv_unload.txt
 
