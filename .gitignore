@@ -1,0 +1,24 @@
+# Netbeans folders #
+build/
+*.xml
+*.mf
+nbproject/
+dist/
+
+# IntelliJ folders # 
+.idea
+*.iml
+*.iws
+out/
+
+# Eclipse folders # 
+bin/
+.classpath
+.project
+.settings
+
+# Other Files #
+*.jar
+*.war
+*.ear
+*.class
