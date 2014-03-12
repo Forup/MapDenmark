@@ -1,4 +1,4 @@
-package MapDenmark;
+package mapdenmark;
 
 /**
  * Represents the raw data from a line in kdv_unload.txt.
